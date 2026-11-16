@@ -23,7 +23,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="58%" valign="top">
       <p>🔭 <b>Currently Building:</b> Turnkey Embodied AI & Edge IoT hardware solutions at <a href="https://chiptalk.ai" target="_blank"><b>ChipTalk.ai</b></a>.</p>
       <p>🦾 <b>Engineering Focus:</b> Edge AI acceleration (NPU/RKNN), sub-800ms full-duplex streaming voice brains, safety micro-cores, and ultra-low power wireless PCBA design.</p>
       <p>🧠 <b>Silicon Expertise:</b> <b>ESP32-S3</b> (Vector AI), <b>Rockchip RK3588/RV1106</b> (6 TOPS NPU), <b>Nordic nRF5340</b> (BLE 5.4 / Audio), and <b>STM32</b> edge controllers.</p>
@@ -42,8 +42,8 @@
         </a>
       </div>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/sandipanrakshit34/sandipanrakshit34/main/assets/engineer1.gif" width="280" alt="Hardware & AI Developer" />
+    <td width="42%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/daniushou/daniushou/main/assets/ai-iot-architect.gif" width="340" alt="AI + IoT Hardware & Silicon Architect" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
