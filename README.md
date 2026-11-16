@@ -55,11 +55,9 @@
 <!-- Contribution Snake -->
 <div align="center">
   <h2>🐍 Contribution Activity & Commit Snake 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniushou/daniushou/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniushou/daniushou/output/github-snake.svg" />
-    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/daniushou/daniushou/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <a href="https://github.com/daniushou">
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/daniushou/daniushou/main/assets/github-snake.svg" width="100%" />
+  </a>
 </div>
 
 <br>
@@ -76,12 +74,12 @@
     <tr align="center">
       <td>
         <a href="https://github.com/daniushou">
-          <img src="https://github-readme-stats.vercel.app/api?username=daniushou&show_icons=true&theme=tokyonight&bg_color=030712&title_color=22d3ee&text_color=94a3b8&icon_color=a855f7&border_color=1e293b&hide_border=false" alt="GitHub Stats" height="175" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=daniushou&show_icons=true&theme=tokyonight&bg_color=030712&title_color=22d3ee&text_color=94a3b8&icon_color=a855f7&border_color=1e293b&hide_border=false" alt="GitHub Stats" height="175" />
         </a>
       </td>
       <td>
         <a href="https://github.com/daniushou">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniushou&theme=tokyonight&background=030712&ring=22d3ee&fire=ff5b79&currStreakNum=22d3ee&sideNums=94a3b8&border=1e293b&hide_border=false" alt="GitHub Streak" height="175" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=daniushou&theme=tokyonight&background=030712&ring=22d3ee&fire=ff5b79&currStreakNum=22d3ee&sideNums=94a3b8&border=1e293b&hide_border=false" alt="GitHub Streak" height="175" />
         </a>
       </td>
     </tr>
@@ -90,7 +88,7 @@
   <br>
 
   <a href="https://github.com/daniushou">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniushou&layout=compact&theme=tokyonight&bg_color=030712&title_color=22d3ee&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" width="460" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=daniushou&layout=compact&theme=tokyonight&bg_color=030712&title_color=22d3ee&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" width="460" />
   </a>
 </div>
 
@@ -285,7 +283,7 @@ Full-Stack (Next/Node)  ██████████░░░   85%
 
   <p align="right">
     <a href="#top">
-      <img src="https://img.shields.io/static/v1?label=&message=Back+to+Top+▲&color=06B6D4&style=flat-square" alt="Back to Top" />
+      <img src="https://img.shields.io/static/v1?label=&message=Back+to+Top&color=06B6D4&style=flat-square" alt="Back to Top" />
     </a>
   </p>
 </div>
