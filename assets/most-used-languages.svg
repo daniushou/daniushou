@@ -1,0 +1,77 @@
+<svg width="460" height="195" viewBox="0 0 460 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages">
+  <style>
+    .header {
+      font: 600 18px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Fira Code', Ubuntu, sans-serif;
+      fill: #22d3ee;
+      letter-spacing: 0.5px;
+    }
+    .lang-name {
+      font: 600 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+      fill: #e2e8f0;
+    }
+    .lang-pct {
+      font: 400 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+      fill: #94a3b8;
+    }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="0.5" y="0.5" rx="8" width="459" height="194" fill="#030712" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Title -->
+  <g transform="translate(25, 32)">
+    <text x="0" y="0" class="header">Most Used Languages</text>
+  </g>
+
+  <!-- Stacked Progress Bar (Total width: 410, height: 10, y: 52) -->
+  <g transform="translate(25, 52)">
+    <clipPath id="bar-clip">
+      <rect width="410" height="10" rx="5" />
+    </clipPath>
+    <rect width="410" height="10" rx="5" fill="#0f172a" />
+    <g clip-path="url(#bar-clip)">
+      <!-- C: 28.4% -> 116.4px -->
+      <rect x="0" y="0" width="116.4" height="10" fill="#555555" />
+      <!-- Python: 24.2% -> 99.2px (start 116.4) -->
+      <rect x="116.4" y="0" width="99.2" height="10" fill="#3572A5" />
+      <!-- Rust: 18.6% -> 76.3px (start 215.6) -->
+      <rect x="215.6" y="0" width="76.3" height="10" fill="#dea584" />
+      <!-- TypeScript: 14.8% -> 60.7px (start 291.9) -->
+      <rect x="291.9" y="0" width="60.7" height="10" fill="#3178c6" />
+      <!-- Java: 8.5% -> 34.8px (start 352.6) -->
+      <rect x="352.6" y="0" width="34.8" height="10" fill="#b07219" />
+      <!-- Jupyter Notebook: 5.5% -> 22.6px (start 387.4) -->
+      <rect x="387.4" y="0" width="22.6" height="10" fill="#DA5B0B" />
+    </g>
+  </g>
+
+  <!-- Legend Grid: 2 Columns x 3 Rows -->
+  <g transform="translate(25, 88)">
+    <!-- Row 1: C & TypeScript -->
+    <!-- Col 1: C -->
+    <circle cx="5" cy="6" r="5" fill="#555555" />
+    <text x="20" y="10" class="lang-name">C <tspan class="lang-pct">28.4%</tspan></text>
+
+    <!-- Col 2: TypeScript -->
+    <circle cx="225" cy="6" r="5" fill="#3178c6" />
+    <text x="240" y="10" class="lang-name">TypeScript <tspan class="lang-pct">14.8%</tspan></text>
+
+    <!-- Row 2: Python & Java -->
+    <!-- Col 1: Python -->
+    <circle cx="5" cy="40" r="5" fill="#3572A5" />
+    <text x="20" y="44" class="lang-name">Python <tspan class="lang-pct">24.2%</tspan></text>
+
+    <!-- Col 2: Java -->
+    <circle cx="225" cy="40" r="5" fill="#b07219" />
+    <text x="240" y="44" class="lang-name">Java <tspan class="lang-pct">8.5%</tspan></text>
+
+    <!-- Row 3: Rust & Jupyter Notebook -->
+    <!-- Col 1: Rust -->
+    <circle cx="5" cy="74" r="5" fill="#dea584" />
+    <text x="20" y="78" class="lang-name">Rust <tspan class="lang-pct">18.6%</tspan></text>
+
+    <!-- Col 2: Jupyter Notebook -->
+    <circle cx="225" cy="74" r="5" fill="#DA5B0B" />
+    <text x="240" y="78" class="lang-name">Jupyter Notebook <tspan class="lang-pct">5.5%</tspan></text>
+  </g>
+</svg>

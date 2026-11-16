@@ -88,7 +88,7 @@
   <br>
 
   <a href="https://github.com/daniushou">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=daniushou&layout=compact&theme=tokyonight&bg_color=030712&title_color=22d3ee&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" width="460" />
+    <img src="https://raw.githubusercontent.com/daniushou/daniushou/main/assets/most-used-languages.svg" alt="Most Used Languages: C, Rust, Java, TypeScript, Python, Jupyter Notebook" width="460" />
   </a>
 </div>
 
@@ -227,7 +227,7 @@ Full-Stack (Next/Node)  ██████████░░░   85%
 
 <div align="center">
   <p><b>Hardware, Embedded & Silicon Architecture</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,arduino,raspberrypi&theme=dark" alt="Embedded & Hardware" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash,arduino,raspberrypi&theme=dark" alt="Embedded & Hardware" />
   
   <br><br>
 
@@ -237,7 +237,7 @@ Full-Stack (Next/Node)  ██████████░░░   85%
   <br><br>
 
   <p><b>Web, Cloud & Distributed Microservices</b></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,docker,nginx,git,github,vscode&theme=dark" alt="Web & Cloud" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,java,postgres,docker,nginx,git,github,vscode&theme=dark" alt="Web & Cloud" />
 </div>
 
 <br>
